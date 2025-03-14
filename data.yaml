@@ -1,0 +1,5 @@
+train: C:\Users\MULTIMATICS\plat_nomor\dataset\train\images
+val: C:\Users\MULTIMATICS\plat_nomor\dataset\val\images
+
+nc: 1  # Number of classes
+names: ['license']  # Class names
