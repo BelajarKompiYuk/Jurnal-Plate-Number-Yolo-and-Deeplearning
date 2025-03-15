@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resize</folder>
+	<filename>license (271).jpg</filename>
+	<path>C:\Users\Multimatics\plat_nomor\dataset_mentah\resize\license (271).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>454</ymin>
+			<xmax>532</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>license</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>236</ymin>
+			<xmax>252</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
